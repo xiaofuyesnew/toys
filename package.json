@@ -8,10 +8,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.25"
+    "element-plus": "^2.1.7",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14"
   },
   "devDependencies": {
+    "@types/lodash-es": "*",
     "@vitejs/plugin-vue": "^2.2.0",
+    "sass": "^1.49.9",
+    "unplugin-auto-import": "^0.6.8",
+    "unplugin-vue-components": "^0.18.5",
     "vite": "^2.8.0"
   }
 }
